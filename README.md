@@ -12,7 +12,7 @@ It has been tested on **Ubuntu 22.04**.
 ## Installation
 
 ```bash
-sudo apt update && rm -rf install.py && wget -qO install.py https://raw.githubusercontent.com/Azzosa/XtreamUi-R22F-22.04/refs/heads/main/install.py && sudo python3 install.py
+sudo apt update && rm -rf install.py && wget -qO install.py https://raw.githubusercontent.com/Azzosa/Xtream-UI-29--22.04-/refs/heads/main/install.py && sudo python3 install.py
 ```
 
 ## Acknowledgements
